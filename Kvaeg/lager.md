@@ -1,14 +1,16 @@
 **Ammoniak Lager**
 
-NH3 emission ganges med antal dyr pr. staldtype og omregnes til lattergas og derefter CO2e
+NH3 emission ganges med antal dyr pr. gulvtype og omregnes til lattergas og derefter CO2e
 
-$$ P = (E \cdot (44/28)* F *A ) $$
+$$ P = ((E+D) \cdot (44/28)* F *A ) $$
 
 hvor
 
 P : Lattergas emissionen beregnet ud fra NH3, kg 
 
-E : NH3, kg emissionen lager- findes i regneark (kolonne xx)
+E : NH3, kg emissionen lager gylle- findes i regneark (fane 'Ammoniak og lattergas' kolonne V)
+
+D : NH3, kg emissionen lager dybstrøelse - findes i regneark (fane 'Ammoniak og lattergas' kolonne W)
 
 F : EFN2O = 0,01
 
@@ -29,13 +31,15 @@ G : CO2e, kg fra ammoniak
 
 **Lattergas lager**
 
+N2O emission ganges med antal dyr pr. gulvtype og omregnes til CO2e
+
 $$ Z = (B \cdot A) \cdot (44/28) $$ 
 
 hvor 
 
 Z: Lattergas emissionen, kg 
 
-B : N2O, kg emission som findes i regneark (kolonne xx)
+B : N2O, kg emission som findes i regneark (fane 'Ammoniak og lattergas' kolonne Y)
 
 A : antal dyr, stk opstaldet på staldtypen 
 
@@ -53,31 +57,17 @@ Z: Lattergas emissionen, kg
 
 **Metan lager**
 
-CH4 emission summeres af CH4 emissionen for gylle og dybstrøelse. Ganges med antal dyr pr. staldtype og omregnes CO2e
+CH4 emission pr. gulvtype ganges med antal dyr og omregnes CO2e
 
-$$ M = (O + P) \cdot A $$ 
-
-hvor 
-
-M : metan emissionen, kg
-
-O: CH4 emissionen for gylle som findes i regneark (kolonne xx)
-
-P: CH4 emissionen for dybstrøelse som findes i regneark (kolonne xx)
-
-A : antal dyr, stk opstaldet på staldtypen 
-
-**skal evt. erstattes af**
-
-CH4 emission pr. staldtype ganges med antal dyr og omregnes CO2e
-
-$$ M = P \cdot A $$ 
+$$ M = (O+P) \cdot A $$ 
 
 hvor 
 
 M : metan emissionen, kg
 
-O: CH4 emissionen som findes i regneark (kolonne xx)
+O: CH4 emissionen gylle som findes i regneark (fane 'metan' kolonne M) 
+
+P: CH4 emissionen dybstrøelse som findes i regneark (fane 'metan' kolonne N)
 
 A : antal dyr, stk opstaldet på staldtypen 
  
