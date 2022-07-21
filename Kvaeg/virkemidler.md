@@ -10,7 +10,7 @@ N = NH3_stald kg/dyr (NH3_stald kg/ dyr for de fire staldtyper pr. dyretype fin
 
 K= konstant for teknologi (se tabel)
 
-A = andel af gyllen der behandles / 100))
+A = andel af gyllen der behandles 
 
 _____________________
 Ammoniak lager Forsuring 
@@ -24,7 +24,7 @@ N = NH3_lager kg/dyr (NH3_lager kg/ dyr for de fire staldtyper pr. dyretype find
 
 K= konstant for teknologi (se tabel)
 
-A = andel af gyllen der behandles / 100))
+A = andel af gyllen der behandles 
 
 
 _______________________
@@ -39,7 +39,7 @@ N = CH4_stald gylle kg/dyr (CH4_stald gylle kg/dyr for de fire staldtyper pr. dy
 
 K= konstant for teknologi (se tabel)
 
-A = andel af gyllen der behandles / 100))
+A = andel af gyllen der behandles
 
 
 _______________________
@@ -54,5 +54,5 @@ N = CH4_lager gylle kg/dyr (CH4_lager gylle kg/dyr for de fire staldtyper pr. dy
 
 K= konstant for teknologi (se tabel)
 
-A = andel af gyllen der behandles / 100))
+A = andel af gyllen der behandles
 
