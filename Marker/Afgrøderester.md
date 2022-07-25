@@ -27,7 +27,7 @@ Hvor:
 
 >Hvis X1 = 1
 
-$$N_{A_{under}} = A_{over} \cdot N_{over} $$
+$$N_{A_{over}} = A_{over} \cdot N_{over} $$
 
 >Hvis X1 = 0 _og_ X2 = 0
 
@@ -81,7 +81,7 @@ Hvor:
 
 * X4: Indikerer om udbyttet nedmuldes = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!X1&action=embedview)
 * F: Forhold underjordisk biomasse til overjordisk biomasse = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!P1&action=embedview)
-* N<sub>under</sub>: N indhold i afgrøderester over jorden = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!O1&action=embedview) [kg N/kg]
+* N<sub>under</sub>: N indhold i afgrøderester under jorden = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!O1&action=embedview) [kg N/kg]
 
 
 
