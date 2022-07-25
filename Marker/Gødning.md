@@ -10,7 +10,7 @@ $$N_2O_{jord} = N_{total} \cdot EF_{N_2O} \cdot \frac{44}{28}$$
 
 $$N_2O_{NH_3} = N_{total} \cdot EF_{NH_3} \cdot  EF_{N_2O}\cdot \frac{44}{28}$$
 
-$$N2O_{NOx} = \frac{N_{total} \cdot EF_{NOx}}{\frac{46}{14}} \cdot EF_{N_2O} \cdot \frac{44}{28}$$
+$$N_2O_{NOx} = \frac{N_{total} \cdot EF_{NOx}}{\frac{46}{14}} \cdot EF_{N_2O} \cdot \frac{44}{28}$$
 
 Og:
 * N<sub>total</sub> = fra MDB, kg N i gødningstypen pr. mark (summering af N i gødningstypen for alle handlingerne på marken)
