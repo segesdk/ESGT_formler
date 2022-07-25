@@ -1,4 +1,4 @@
-# **Gødning på marken**
+# **Gødning og nitrifikationshæmmer på marken**
 
 ## **Gødning**
 
@@ -27,7 +27,11 @@ Hvor:
 
  * $\theta$ N<sub>2</sub>O-CO<sub>2</sub></sub>: Omregningsfaktor N<sub>2</sub>O til CO<sub>2</sub> = 298
 
+ ----
+
 ## **Nitrifikationshæmmer**
+
+### **Beregning af N<sub>2</sub>O ved brug af nitrifikationshæmmer** 
 
 Ved brug af nitrifikationshæmmer sænkes aftrykket fra gødningen i jorden med 40%. N<sub>2</sub>O<sub>jord</sub> i beregningen ovenfor genberegnes derfor som:
 
