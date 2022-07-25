@@ -10,8 +10,6 @@ _NB Der er fire variable, som har indvirkning på beregningen af afgrøderester.
 
 _Fagligt notat kan læses [HER](https://seges.sharepoint.com/sites/GreenAction/Delte%20dokumenter/General/Mark/majh20220718_afgr%C3%B8derester_esgreen%20tool_input%20parametre%20og%20variabler.docx?web=1)_
 
-## **Afgrøde 1**
-
 ### **Beregning af N fra afgrøderester på marken** 
 
 $$N_{afgrøderester} = \frac{N_{A_{over}} + N_{A_{under}}}{O} \cdot H$$
@@ -23,7 +21,7 @@ Hvor:
 * O: Omlægningsfrekvens
 * H: Antal ha på marken
 
-### **Beregning af N<sub>A<sub>under</sub></sub>, N i afgrøderester over jorden, afhænger af afgrødetypen**
+### **Beregning af N i afgrøderester over jorden, N<sub>A<sub>over</sub></sub>, afhænger af afgrødetypen**
 
 >Hvis X1 = 1
 
@@ -48,7 +46,7 @@ Hvor:
 * H<sub>u</sub>: Halmudbytte = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!R1&action=embedview) [kg ts]
 
 
-### **Beregning af A<sub>o</sub>, afgrøderester over jorden, afhænger af afgrødetypen**
+### **Beregning af afgrøderester over jorden, A<sub>over</sub>, afhænger af afgrødetypen**
 
 For nogle afgrøder bruges udbytte + halmudbytte til beregning af afgrøderest (X = 1), for andre ikke (X = 0). 
 
@@ -66,7 +64,7 @@ Hvor:
 * S: Slope = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!K1&action=embedview)
 * I: Intercept = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!L1&action=embedview)
 
-### **Beregning af N<sub>A<sub>under</sub></sub>, N i afgrøderester under jorden, afhænger af afgrødetypen**
+### **Beregning af N i afgrøderester under jorden, N<sub>A<sub>under</sub></sub>, afhænger af afgrødetypen**
 
 >Hvis X4 = 0
 
@@ -91,5 +89,5 @@ Hvor:
 $$CO_2e = N_{afgrøderester}   \cdot EF_{N_2O} \cdot \frac{44}{28} \cdot \theta_{N_2O-CO_2}$$
 Hvor: 
 
- * EF<sub>N<sub>2</sub>O</sub>: = 0,01
+ * EF<sub>N<sub>2</sub>O</sub>: Emissionsfaktor for N<sub>2</sub>O = 0,01
  * $\theta$ N<sub>2</sub>O-CO<sub>2</sub></sub>: Omregningsfaktor N<sub>2</sub>O til CO<sub>2</sub> = 298
