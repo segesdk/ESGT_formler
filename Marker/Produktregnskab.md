@@ -30,7 +30,7 @@ Der beregnes klimaaftryk på markerne enkeltvis, til brug i bedriftsaftrykket. D
 11. Forfrugtsværdier (mangler afklaring/beregning)
 12. Kulstoflagring (mangler afklaring/beregning)
 
-### **Produktaftryk:**
+#### **Produktaftryk:**
 
 Samlet udledning for marker med vårbyg, CO<sub>2</sub>eVårbyg:
 
