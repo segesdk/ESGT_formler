@@ -46,7 +46,7 @@ $$P_{Vårbyg} = \frac{CO_2eVårbyg}{40+180+80}$$
 
 Mere generelt kan produktaftrykket, P, for en afgrøde, a, formuleres som:
 
-$$P_a = \frac{\sum_{j=1}^{m_a} \sum_{i=1}^{n_a} CO_2e_{i,j}}{A_a}$$
+$$P_a  \sum_{i=1}^{n_a} = \frac{\sum_{j=1}^{m_a} \sum_{i=1}^{n_a} CO_2e_{i,j}}{A_a}$$
 
 Hvor: 
 
