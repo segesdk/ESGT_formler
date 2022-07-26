@@ -7,40 +7,53 @@ _Fagligt notat kan læses [HER](https://seges.sharepoint.com/sites/GreenAction/D
 
 Når vi kender klimaftrykket på den enkelte mark, kan produktaftrykket pr ha findes ved at summere aftrykket fra marker med samme type afgrøde, og dividere med disses samlede antal hektar.
 
-### **Eksempel for bedrift med vårbyg og raps**
+### **Eksempelberegning**
 
-På CVR 11223344 findes fem marker - tre med vårbyg og to med raps:
+På CVR 11223344 findes tre marker med vårbyg:
 
 * Mark 1 = 40 ha vårbyg
 * Mark 2 = 180 ha vårbyg
 * Mark 3 = 80 ha vårbyg
-* Mark 4 = 35 ha raps
-* Mark 5 = 55 ha raps
 
-Der beregnes klimaaftryk på markerne enkeltvis, til brug i bedriftsaftrykket. Dette inkluderer beregninger for:
+Der beregnes klimaaftryk på markerne enkeltvis, til brug i bedriftsaftrykket. Dette inkluderer beregninger for udledningskilderne:
 
-* [Gødning (handels- husdyr- og anden organisk)](https://github.com/segesdk/ESGT_formler/blob/main/Marker/G%C3%B8dning_og_nitrifikationsh%C3%A6mmer.md)
-* [Kalkning](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Kalkning.md) (se note nedenfor om kalkning)
-* [Organogene jorde](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Organogene_jorde.md)
-* [Afgrøderester](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Afgr%C3%B8derester.md)
-* [Nitratudvaskning](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Nitratudvaskning.md)
-* Afgræsning (mangler afklaring/beregning)
-* Pesticider (mangler afklaring/beregning)
-* Udsæd (mangler afklaring/beregning)
-* Brændsstofforbrug (mangler afklaring/beregning)
-* Tørring og lagring (mangler afklaring/beregning)
-* Forfrugtsværdier (mangler afklaring/beregning)
-* Kulstoflagring (mangler afklaring/beregning)
+1. [Gødning (handels- husdyr- og anden organisk)](https://github.com/segesdk/ESGT_formler/blob/main/Marker/G%C3%B8dning_og_nitrifikationsh%C3%A6mmer.md)
+2. [Kalkning](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Kalkning.md)
+3. [Organogene jorde](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Organogene_jorde.md)
+4. [Afgrøderester](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Afgr%C3%B8derester.md)
+5. [Nitratudvaskning](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Nitratudvaskning.md)
+6. Afgræsning (mangler afklaring/beregning)
+7. Pesticider (mangler afklaring/beregning)
+8. Udsæd (mangler afklaring/beregning)
+9. Brændsstofforbrug (mangler afklaring/beregning)
+10. Tørring og lagring (mangler afklaring/beregning)
+11. Forfrugtsværdier (mangler afklaring/beregning)
+12. Kulstoflagring (mangler afklaring/beregning)
 
-#### **Særligt for kalkning**
+### **Produktaftryk:**
 
-Vi kan endnu ikke kan fastlægge, hvilke marker, der modtager kalk, og derfor spredes det samlede CO2-bidrag fra kalk ligeligt ud på alle CVR nummerets marker. I dette eksempel vil kalk-bidraget for hhv vårbyg og raps derfor blive:
+Samlet udledning for marker med vårbyg, CO<sub>2</sub>eVårbyg:
 
-$$CO_{2kalk} = \frac{(40+180+80+35+55) \cdot 170}{100,09}\cdot 12,01 \cdot \frac{44}{12} = 29.912,01$$
+$$CO_2eMark1 = CO_2eGødning + CO_2eKalkning \dots + CO_2eKulstoflagring $$
+$$CO_2eMark2 = CO_2eGødning + CO_2eKalkning \dots + CO_2eKulstoflagring $$
+$$CO_2eMark3 = CO_2eGødning + CO_2eKalkning \dots + CO_2eKulstoflagring $$
 
-$$CO_{2kalk}Vårbyg = \frac{29.912,01}{(40+180+80)} = 99,73$$
+$$CO_2eVårbyg = CO_2eMark1 + CO_2eMark2 + CO_2eMark3 $$
 
-$$CO_{2kalk}Raps = \frac{29.912,01}{(35+55)} = 299,18$$
+Produktaftryk, P, for vårbyg:
+
+$$P_{Vårbyg} = \frac{CO_2eVårbyg}{40+180+80}$$
+
+Mere generelt kan produktaftrykket, P, for en afgrøde, a, formuleres som:
+
+$$P_a = \frac{\sum_{j=1}^{m_a} \sum_{i=1}^{n_a} CO_2e_{i,j}}{A_a}$$
+
+Hvor: 
+
+* n<sub>a</sub> = udledningskilder inkluderet i beregningen for marken med afgrøde a
+* m<sub>a</sub> = marker hvor afgrøde a dyrkes
+* A<sub>a</sub> = det samlede areal hvorpå afgrøde a dyrkes
+
 
 
 
