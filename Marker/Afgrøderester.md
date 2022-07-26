@@ -1,5 +1,7 @@
 # **Afgrøderester på marken**
 
+## **Intro**
+
 _NB Der er fire variable, som har indvirkning på beregningen af afgrøderester. Disse er:_
 
 * _X1: Halmnedmulding, ja/nej_
@@ -10,6 +12,8 @@ _NB Der er fire variable, som har indvirkning på beregningen af afgrøderester.
 
 _Fagligt notat kan læses [HER](https://seges.sharepoint.com/sites/GreenAction/Delte%20dokumenter/General/Mark/majh20220718_afgr%C3%B8derester_esgreen%20tool_input%20parametre%20og%20variabler.docx?web=1)_
 
+## **Beregninger**
+
 ### **Beregning af N fra afgrøderester på marken** 
 
 $$N_{afgrøderester} = \frac{N_{A_{over}} + N_{A_{under}}}{O} \cdot H$$
@@ -18,8 +22,8 @@ Hvor:
 
 * N<sub>A<sub>over</sub></sub>: N i afgrøderester over jorden [kg N/kg ts]
 * N<sub>A<sub>under</sub></sub>: N i afgrøderester under jorden [kg N/kg ts]
-* O: Omlægningsfrekvens
-* H: Antal ha på marken
+* O: Omlægningsfrekvens = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!M1&action=embedview)
+* H: Antal ha på marken = fra MO
 
 ### **Beregning af N i afgrøderester over jorden, N<sub>A<sub>over</sub></sub>, afhænger af afgrødetypen**
 

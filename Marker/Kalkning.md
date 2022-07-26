@@ -8,3 +8,7 @@ Hvor
 * H = antal ha, der har fået tildelt kalk  
 * X = standard tal for forbrug af kalk (CaCO<sub>3</sub>) pr. ha/ år = 170 kg
 
+
+### **Transport at kalk** 
+
+Mangler afklaring
