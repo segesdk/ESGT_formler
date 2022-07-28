@@ -5,7 +5,7 @@ _Fagligt notat kan læses [HER](https://seges.sharepoint.com/sites/GreenAction/D
 
 ## **Beregninger**
 
-Når vi kender klimaftrykket på den enkelte mark, kan produktaftrykket pr ha findes ved at summere aftrykket fra marker med samme type afgrøde, og dividere med disses samlede antal hektar.
+Når vi kender klimaftrykket på den enkelte mark, kan produktaftrykket pr ha findes ved at summere aftrykket fra marker med samme type afgrøde, og dividere med disses samlede antal hektar
 
 ### **Eksempelberegning**
 
