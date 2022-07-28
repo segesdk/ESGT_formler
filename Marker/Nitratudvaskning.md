@@ -10,7 +10,7 @@ Hvor:
 
 ### **Omregning til CO<sub>2</sub>e**
 
-$$CO_2e = N_{nitratudvaskning} \cdot \theta_{N_2O-CO_2}$$
+$$CO_2e = N_2O_{nitratudvaskning} \cdot \theta_{N_2O-CO_2}$$
 Hvor: 
 
  * $\theta$ N<sub>2</sub>O-CO<sub>2</sub></sub>: Omregningsfaktor N<sub>2</sub>O til CO<sub>2</sub> = 298
