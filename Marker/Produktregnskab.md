@@ -35,7 +35,9 @@ Der beregnes klimaaftryk på markerne enkeltvis, til brug i bedriftsaftrykket. D
 Samlet udledning for marker med vårbyg, CO<sub>2</sub>eVårbyg:
 
 $$CO_2eMark1 = CO_2eGødning + CO_2eKalkning \dots + CO_2eKulstoflagring $$
+
 $$CO_2eMark2 = CO_2eGødning + CO_2eKalkning \dots + CO_2eKulstoflagring $$
+
 $$CO_2eMark3 = CO_2eGødning + CO_2eKalkning \dots + CO_2eKulstoflagring $$
 
 $$CO_2eVårbyg = CO_2eMark1 + CO_2eMark2 + CO_2eMark3 $$
