@@ -52,7 +52,7 @@ Hvor:
 
 ### **Beregning af afgrøderester over jorden, A<sub>over</sub>, afhænger af afgrødetypen**
 
-For nogle afgrøder bruges udbytte + halmudbytte til beregning af afgrøderest (X = 1), for andre ikke (X = 0). 
+For nogle afgrøder bruges udbytte + halmudbytte til beregning af afgrøderest (X3 = 1), for andre ikke (X3 = 0). 
 
 >Hvis X3 = 0
 
@@ -88,7 +88,7 @@ Hvor:
 
 
 
-### **Omregning til CO<sub>2</sub>e:**
+## **Omregning til CO<sub>2</sub>e**
 
 $$CO_2e = N_{afgrøderester}   \cdot EF_{N_2O} \cdot \frac{44}{28} \cdot \theta_{N_2O-CO_2}$$
 Hvor: 
