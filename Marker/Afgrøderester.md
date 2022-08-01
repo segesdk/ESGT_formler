@@ -86,8 +86,6 @@ Hvor:
 * N<sub>under</sub>: N indhold i afgrøderester under jorden = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!O1&action=embedview) [kg N/kg]
 
 
-
-
 ## **Omregning til CO<sub>2</sub>e**
 
 $$CO_2e = N_{afgrøderester}   \cdot EF_{N_2O} \cdot \frac{44}{28} \cdot \theta_{N_2O-CO_2}$$
@@ -95,3 +93,7 @@ Hvor:
 
  * EF<sub>N<sub>2</sub>O</sub>: Emissionsfaktor for N<sub>2</sub>O = 0,01
  * $\theta$ N<sub>2</sub>O-CO<sub>2</sub></sub>: Omregningsfaktor N<sub>2</sub>O til CO<sub>2</sub> = 298
+
+ ----
+
+ ## **Testcases**
