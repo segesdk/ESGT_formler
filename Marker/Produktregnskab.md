@@ -17,28 +17,29 @@ På CVR 11223344 findes tre marker med vårbyg:
 
 Der beregnes klimaaftryk på markerne enkeltvis, til brug i bedriftsaftrykket. Dette inkluderer beregninger for udledningskilderne:
 
-1. [Gødning (handels- husdyr- og anden organisk)](https://github.com/segesdk/ESGT_formler/blob/main/Marker/G%C3%B8dning_og_nitrifikationsh%C3%A6mmer.md)
+1. [Gødning mark (handels- husdyr- og anden organisk)](https://github.com/segesdk/ESGT_formler/blob/main/Marker/G%C3%B8dning_og_nitrifikationsh%C3%A6mmer.md)
 2. [Kalkning](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Kalkning.md)
 3. [Organogene jorde](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Organogene_jorde.md)
 4. [Afgrøderester](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Afgr%C3%B8derester.md)
 5. [Nitratudvaskning](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Nitratudvaskning.md)
-6. Afgræsning (mangler afklaring/beregning)
-7. Pesticider (mangler afklaring/beregning)
-8. Udsæd (mangler afklaring/beregning)
-9. Brændsstofforbrug (mangler afklaring/beregning)
-10. Tørring og lagring (mangler afklaring/beregning)
-11. Forfrugtsværdier (mangler afklaring/beregning)
-12. Kulstoflagring (mangler afklaring/beregning)
+6. [Handelsgødning import](https://github.com/segesdk/ESGT_formler/blob/main/import/handelsg%C3%B8dning.md)
+7. Afgræsning (mangler afklaring/beregning)
+8. Pesticider (mangler afklaring/beregning)
+9. Udsæd (mangler afklaring/beregning)
+10. Brændsstofforbrug (mangler afklaring/beregning)
+11. Tørring og lagring (mangler afklaring/beregning)
+12. Forfrugtsværdier (mangler afklaring/beregning)
+13. Kulstoflagring (mangler afklaring/beregning)
 
 #### **Produktaftryk:**
 
 Samlet udledning for marker med vårbyg, CO<sub>2</sub>eVårbyg:
 
-$$CO_2eMark1 = CO_2eGødning + CO_2eKalkning \dots + CO_2eKulstoflagring $$
+$$CO_2eMark1 = CO_2eGødning mark + CO_2eKalkning \dots + CO_2eKulstoflagring $$
 
-$$CO_2eMark2 = CO_2eGødning + CO_2eKalkning \dots + CO_2eKulstoflagring $$
+$$CO_2eMark2 = CO_2eGødning mark + CO_2eKalkning \dots + CO_2eKulstoflagring $$
 
-$$CO_2eMark3 = CO_2eGødning + CO_2eKalkning \dots + CO_2eKulstoflagring $$
+$$CO_2eMark3 = CO_2eGødning mark + CO_2eKalkning \dots + CO_2eKulstoflagring $$
 
 $$CO_2eVårbyg = CO_2eMark1 + CO_2eMark2 + CO_2eMark3 $$
 
