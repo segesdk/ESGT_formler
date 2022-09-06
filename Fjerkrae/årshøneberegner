@@ -1,0 +1,57 @@
+
+AÅ = Y + X + Z
+
+Hvor 
+
+AÅ = antal årshøner på CHR nummer  
+
+Y = antal årshøner, stk fra hold 1 
+
+X = antal årshøner, stk fra hold 2 
+
+Z = antal årshøner, stk fra hold 3
+
+______________________________
+Beregning for hold 1
+_______________________________
+$$ Y = (ap + au) \cdot 0,5 \cdot d/365 $$
+
+Hvor
+
+Y = antal årshøner, stk fra hold 1 
+
+pa = antal høns primo 1 januar, stk 
+
+ua = antal høns ultimo (ved udsættelse), stk 
+
+d = dage i perioden 
+
+______________________________
+Beregning for hold 2
+_______________________________
+$$ X = (st + au) \cdot 0,5 \cdot d/365 $$
+
+Hvor
+
+X = antal årshøner, stk  fra hold 2 
+
+an = antal høns indsat, stk 
+
+st = antal høns d. 31/12, stk 
+
+d = dage i perioden til og med d. 31/12 
+
+______________________________
+Beregning for hold 3
+_______________________________
+$$ Z = (st + au) \cdot 0,5 \cdot d/365 $$
+
+Hvor
+
+Z = antal årshøner, stk  fra hold 3 
+
+an = antal høns indsat, stk 
+
+st = antal høns d. 31/12, stk 
+
+d = dage i perioden til og med d. 31/12
