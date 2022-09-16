@@ -4,11 +4,11 @@ $$ CO_2e = N \cdot NK + P \cdot PK + K \cdot KK $$
 
 hvor 
 
-N = kg N
+N = sum af kg N fra alle marker 
 
-P = kg P 
+P = sum af kg P fra alle marker 
 
-K = kg K 
+K = sum af kg K fra alle marker 
 
 NK = handelsgødningskonstant N = 6,6
 
