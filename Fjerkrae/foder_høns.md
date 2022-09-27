@@ -38,7 +38,7 @@ $$CO_2Skaller = (Tildelt foder \cdot Andel skaller) \cdot CO_2skaller$$
 
 hvor 
 
-Co<sub>2</sub>Skaller: CO<sub>2</sub><sub>e</sub> fra skaller, kg
+CO<sub>2</sub>Skaller: CO<sub>2</sub><sub>e</sub> fra skaller, kg
 
 Tildelt foder: 'tildelt kg æglæggerfoder pr. årshøne' (standard eller ændret af bruger)
 

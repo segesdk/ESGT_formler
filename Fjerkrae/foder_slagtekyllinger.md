@@ -4,15 +4,15 @@ $$Total CO_2{slagtekyllingefoder} = CO_2{Fuldfoder} + CO_2{Tilskudsfoder} + CO_2
 
 hvor 
 
-**Total slagtekyllingefoder**: 'I alt kg CO2<sub>2</sub>' for slagtekylling foder'
+**Total slagtekyllingefoder**: 'I alt kg CO<sub>2</sub> for slagtekylling foder'
 
 **Fuldfoder**: CO<sub>2</sub> fra fuldfoder, kg 
 
-**Tilskudsfoder**: CO2<sub>2</sub> fra tilskudsfoder, kg 
+**Tilskudsfoder**: CO<sub>2</sub> fra tilskudsfoder, kg 
 
-**Indkøb hel hvede**: CO2<sub>2</sub> fra indkøbt hel hvede, kg 
+**Indkøb hel hvede**: CO<sub>2</sub> fra indkøbt hel hvede, kg 
 
-**Hjemmeavlet hel hvede**: CO2<sub>2</sub> fra hjemmeavlet hel hvede, kg 
+**Hjemmeavlet hel hvede**: CO<sub>2</sub> fra hjemmeavlet hel hvede, kg 
 ___________________________________________
 
 **Fuldfoder**

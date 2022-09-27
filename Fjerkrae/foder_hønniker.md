@@ -68,7 +68,7 @@ $$CO_2hjemmeavlet råvare = ((Tildelt foder \cdot Andel råvare)-(Tildelt foder 
 
 hvor
 
-CO<sub>2</sub>hjemmeavlet råvare = CO2<sub>2</sub> fra hjemmeavlet råvare, kg 
+CO<sub>2</sub>hjemmeavlet råvare = CO<sub>2</sub> fra hjemmeavlet råvare, kg 
 
 Tildelt foder: 'tildelt kg opdrætsfoder pr. hønnike' (standard eller ændret af bruger)
 
