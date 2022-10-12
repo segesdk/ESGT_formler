@@ -1,6 +1,6 @@
-# El 
+# **El**
 
-## Bedriftsaftryk
+## **Bedriftsaftryk**
 
 **El fra vedvarende energikilder**
 _____________________________
@@ -23,13 +23,13 @@ Hvor:
 * F: Elforbrug = indtastes af bruger [kWh]
 * OMF: omregningsfaktor for el fra fossile og vedvarende energikilder = 0,151 [kg CO2/kWh]
 
-## Produktaftryk
+## **Produktaftryk**
 ___________________________________________
 
 For at finde produktaftrykket, P, er det nødvendigt at fordele det samlede elforbrug på de afgrøder/marker, der vandes. 
 I MO kendes oplysningen på mark “kan vandes”, men oftest er det ikke oplyst om marken reelt _er_ vandet. Derfor kan vi i første version af produktaftrykket fordele el forbruget i marken på marker der kan vandes.
 
-$$P_{el} = \frac{F}{\sum ha_v} \cdot ha_m$$
+$$P_{a, el} = \frac{F}{\sum ha_v} \cdot ha_m$$
 
 Hvor:
 

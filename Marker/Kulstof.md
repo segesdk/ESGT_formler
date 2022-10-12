@@ -1,37 +1,30 @@
  
+# **Kulstof i mineraljord**
 ## **Bedriftsaftryk**
 
-**klimaaftryk fra kulstof i mineraljord**
-
-$$CO_2{kulstof mineraljord} = Ændring_{jordpulje},kg C \cdot 44/12$$
+$$CO_{2_{kulstof mineraljord}} = \Delta_{jord} \cdot \frac{44}{12}$$
 
 
- **Ændring af jordpulje**
+ **Beregning af ændring af jordpulje, Δ<sub>jordpulje</sub>**
 
- $$Ændring_{jordpulje} = C_{puljeUltimo} - C_{puljePrimo}$$
+ $$\Delta_{jord} = C_{Ultimo} - C_{Primo}$$
 
-hvor 
+Hvor:
 
-Ændring jordpulje: Kulstof i mineraljord (kg C pr. ha i 0-100 cm)
+* Δ<sub>jord</sub>: Kulstof i mineraljord [kg C pr. ha i 0-100 cm]
+* C<sub>Primo</sub> = HUM<sub>Primo</sub> + ROM<sub>Primo</sub>
+* C<sub>Ultimo</sub> = HUM<sub>Ultimo</sub> + ROM<sub>Ultimo</sub>
 
-C puljePrimo = HUM Primo + ROM Primo
-
-C puljeUltimo = HUM Ultimo + ROM Ultimo
-
-HUM Ultimo, ROM Ultimo, HUM Ultimo og ROM Ultimo kommer fra MO 
+HUM<sub>Primo</sub>, ROM<sub>Primo</sub>, HUM<sub>Ultimo</sub> og ROM<sub>Ultimo</sub> kommer alle fra MO 
 
 ## **Produktaftryk**
 
-Idet vi for ændringer for alle marker fra MO, fordeler vi ændringen ud på alle mineraljorde og derefter summerer pr. afgrøde 
+Idet vi for ændringer for alle marker fra MO, fordeler vi ændringen ud på alle mineraljorde (dvs. JB 11 jorde filtreres fra) og derefter summerer pr. afgrøde 
 
-$$kulstof_{afgrøde} = \frac{Ændring_{jordpulje}}{\sum_{ha_m}} \cdot ha_{afgrøde}$$
+$$P_{a, kulstof} = \frac{\Delta_{jord}}{\sum ha_m} \cdot ha_{a}$$
 
-hvor 
+Hvor:
 
-Ændring jordpulje: kulstofændringen pr. afgrøde i CO2  
-
-kulstof æ: kulstofændringen for mineraljord i CO2
-
-ha m: Sum af hektar mineraljord for afgrøder der kan beregnes produktaftryk på 
-
-ha afgrøde: Antal ha pr. afgrøde 
+* Δ<sub>jordpulje</sub>: kulstofændringen pr. afgrøde i CO<sub>2</sub>  (isah: skal man ikke gange 44/12 på her også?)
+* ha<sub>m</sub>: Sum af hektar mineraljord for afgrøder der kan beregnes produktaftryk på = kommer fra MO
+* ha<sub>a</sub>: Antal ha pr. afgrøde 
