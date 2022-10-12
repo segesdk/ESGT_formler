@@ -24,14 +24,14 @@ HUM Ultimo, ROM Ultimo, HUM Ultimo og ROM Ultimo kommer fra MO
 
 Idet vi for ændringer for alle marker fra MO, fordeler vi ændringen ud på alle mineraljorde og derefter summerer pr. afgrøde 
 
-$$kulstof_{afgrøde} = \frac{Æ}{\sum_{ha_m}} \cdot ha_{afgrøde}$$
+$$kulstof_{afgrøde} = \frac{Ændring_{jordpulje}}{\sum_{ha_m}} \cdot ha_{afgrøde}$$
 
 hvor 
 
-Kulstof afgrøde: kulstofændringen pr. afgrøde i CO2  
+Ændring jordpulje: kulstofændringen pr. afgrøde i CO2  
 
-Æ: kulstofændringen for mineraljord i CO2
+kulstof æ: kulstofændringen for mineraljord i CO2
 
-ha m: Sum af hektar mineraljord
+ha m: Sum af hektar mineraljord for afgrøder der kan beregnes produktaftryk på 
 
 ha afgrøde: Antal ha pr. afgrøde 
