@@ -23,3 +23,38 @@ Hvor
 * H<sub>i</sub>: Det totale antal hektar på bedriften med den i'te afgrøde = indlæses fra MO
 * T<sub>i</sub>: Typetal for den i'te afgrødes dieselforbrug = Ses i [regnearket](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!V1&action=embedview)
 * n: Antal forskellige afgrøder på bedriften = indlæses fra MO
+
+**maskinarbejde skal indregnes i produkaftrykket for diesel**
+
+Maskinarbejde købt eller solgt omregnes til liter diesel og der bruges samme fordeling som som under diesel. se ovenstående formel.
+
+omregning af kr til Disel sker med formlen 
+
+**Maskinarbejde indkøb**
+_____________________________
+
+$$ MAI = IMA \cdot OMFkr$$
+
+hvor 
+
+MAI: 'Indkøbt maskinarbejde, CO2,kg'
+
+IMA: 'indkøbt maskinarbejde kr.
+
+OMFkr: 'Omregningsfaktor, kr. til liter diesel'= 0,02 liter/kr.
+
+
+**Maskinarbejde solgt**
+_____________________________
+
+$$ MAS = SMA \cdot OMFkr$$
+
+hvor 
+
+MAS: 'solgt maskinarbejde, CO2,kg'
+
+SMA: 'solgt maskinarbejde kr.
+
+OMFkr: 'Omregningsfaktor, kr. til liter diesel'= 0,02 liter/kr.
+
+ 
