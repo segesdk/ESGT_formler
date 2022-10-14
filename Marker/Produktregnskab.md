@@ -7,7 +7,7 @@ _Fagligt notat kan læses [HER](https://seges.sharepoint.com/sites/GreenAction/D
 
 Når vi kender klimaftrykket på den enkelte mark, kan produktaftrykket pr ha findes ved at summere aftrykket fra marker med samme type afgrøde, og dividere med disses samlede antal hektar. 
 
-Se Fig 1 for et grsfisk overblik over hvilke
+Se Fig 1 for et grafisk overblik over hvilke emissionskilder, der indgår i beregningen af en afgrødes produktaftryk.
 
 ## **Beregning af afgrødens produktaftryk**
 Af fig. 1 ses hvordan produktaftrykket udregnes for en given afgrøde. Generelt kan produktaftrykket, P, for en afgrøde, a, skrives som:
