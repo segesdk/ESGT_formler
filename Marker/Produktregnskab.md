@@ -43,13 +43,13 @@ På CVR 12345678 findes tre marker med vårbyg:
 
 Samlet udledning for marker med vårbyg, CO<sub>2</sub>eVårbyg:
 
-$$CO_2e_{Mark1} = CO_2e_{Gødning} + CO_2e_{Kalkning} \dots + CO_2e_{Kulstoflagring} $$
+$$CO_2e_{Mark1} = CO_2e_{Gødning} + CO_2e_{Kalkning} \dots + CO_2e_{El} $$
 
-$$CO_2e_{Mark2} = CO_2e_{Gødning} + CO_2e_{Kalkning} \dots + CO_2e_{Kulstoflagring} $$
+$$CO_2e_{Mark2} = CO_2e_{Gødning} + CO_2e_{Kalkning} \dots + CO_2e_{El} $$
 
-$$CO_2e_{Mark3} = CO_2e_{Gødning} + CO_2e_{Kalkning} \dots + CO_2e_{Kulstoflagring} $$
+$$CO_2e_{Mark3} = CO_2e_{Gødning} + CO_2e_{Kalkning} \dots + CO_2e_{El} $$
 
-$$CO_2e_{Vårbyg} = CO_2e_{Mark1} + CO_2e_{Mark2} + CO_2eMark3 $$
+$$CO_2e_{Vårbyg} = CO_2e_{Mark1} + CO_2e_{Mark2} + CO_2e_{Mark3} $$
 
 Produktaftryk, P, for vårbyg:
 
