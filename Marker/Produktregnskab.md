@@ -12,14 +12,14 @@ Se Fig 1 for et grafisk overblik over hvilke emissionskilder, der indgår i bere
 ## **Beregning af afgrødens produktaftryk**
 Af fig. 1 ses hvordan produktaftrykket udregnes for en given afgrøde. Generelt kan produktaftrykket, P, for en afgrøde, a, skrives som:
 
-$$P_a = \frac{\sum_{j=1}^{m_a} \sum_{i=1}^{n_a} CO_2e_{j,i}}{A_a}$$
+$$P_a = \frac{\sum_{j=1}^{n_m} \sum_{i=1}^{n_u} CO_2e_{j,i}}{\sum_{j=1}^{n_h}H_j}$$
 
 Hvor: 
 
-* n<sub>a</sub>: antallet af udledningskilder inkluderet i beregningen for marken med afgrøde a
-* m<sub>a</sub>: antallet af marker hvor afgrøde a dyrkes
-* A<sub>a</sub>: det samlede areal hvorpå afgrøde a dyrkes = summering af data fra MO
-* CO<sub>2</sub>e<sub>j,i</sub>: CO<sub>2</sub>e udledningen fra den i'te emissionskilde på den j'te mark
+* n<sub>u</sub>: antallet af udledningskilder inkluderet i beregningen for marken med afgrøde a
+* n<sub>m</sub>: antallet af marker hvor afgrøde a dyrkes
+* H<sub>j</sub>: arealet af den j'te mark, hvor afgrøde a dyrkes = fås fra MO [ha]
+* CO<sub>2</sub>e<sub>j,i</sub>: CO<sub>2</sub>e udledningen fra den i'te emissionskilde på den j'te mark [kg]
 
 Beregningerne af de enkelte emissionskilder findes i:
 
