@@ -10,7 +10,7 @@ P = sum af kg P fra alle marker
 
 K = sum af kg K fra alle marker 
 
-NK = handelsgødningskonstant N = 6,6
+NK = handelsgødningskonstant N = 3,3 (Publikation fra International Fertilizer Society hvor 3,3 kg CO2e pr. kg N er et gennemsnit for europæiske producenter af handelsgødning)
 
 PK = handelsgødningskonstant P = 3,6
 
