@@ -39,6 +39,7 @@ Hvor:
 * ha<sub>a</sub>: Antal ha pr. mark 
 
 **Andet el (tørring mv.)**
+
 For at finde produktaftrykket, P, er det nødvendigt at fordele elforbruget, der ikke bruges til vanding, på de afgrøder/marker, der har afgrøder til modenhed (tørring m.v.)
 I regnearket findes en kolonne hvor ja betyder at afgrøden høstet til modenhed.
 
