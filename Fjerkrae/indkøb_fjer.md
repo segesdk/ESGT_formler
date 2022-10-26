@@ -1,7 +1,7 @@
 ## **Fjerkræ indkøb**
 
 
-$$ CO_2{indkøb} = CO_2{indkøbS} + CO_2{indkøbDK} + CO_2{indkøbDR} + CO_2{indkøbH} $$
+$$ CO_2{indkøb} = CO_2{indkøbS} + CO_2{indkøbR} + CO_2{indkøbDK} + CO_2{indkøbDR}  + CO_2{indkøbH} $$
 __________________________
 
 
@@ -15,24 +15,31 @@ Hvor:
 * A slagtekyllinger: antal indkøbte daggamle slagtekyllinger (indtastes af bruger i stk.)
 * KVS: klimaværdi for daggamle slagtekyllinge på 0,5 kg CO2e/stk 
 
+$$ CO_2{indkøbR} = A_{Rugeæg} \cdot KVR$$
+
+Hvor: 
+
+* CO2 indkøbR: bidraget fra indkøbet af Rugeæg 
+* A Rugeæg: antal indkøbte rugeæg (indtastes af bruger i stk.)
+* KVR: klimaværdi for Rugeæg på 0,5 kg CO2e/stk 
 
 **Hønniker**
 
-$$ CO_2{indkøbDK} = A_{daggamle levekyllinger til konsumæg} \cdot KVK$$
+$$ CO_2{indkøbDK} = A_{daggamle levekyllinger til konsumægsproduktion} \cdot KVK$$
 
 Hvor: 
 
-* CO2 indkøbDK: bidraget fra indkøbet af daggamle levekyllinger til konsumæg 
-* A slagtekyllinger: antal indkøbte daggamle levekyllinger til konsumæg (indtastes af bruger i stk.)
-* KVK: klimaværdi for daggamle levekyllinger til konsumæg på 0,5 kg CO2e/stk 
+* CO2 indkøbDK: bidraget fra indkøbet af daggamle levekyllinger til konsumægsproduktion 
+* A daggamle levekyllinger til konsumæg: antal indkøbte daggamle levekyllinger til konsumægsproduktion (indtastes af bruger i stk.)
+* KVK: klimaværdi for daggamle levekyllinger til konsumægsproduktion på 0,5 kg CO2e/stk 
 
-$$ CO_2{indkøbDR} = A_{daggamle levekyllinger til rugeæg} \cdot KVR$$
+$$ CO_2{indkøbDR} = A_{daggamle levekyllinger til rugeægsproduktion} \cdot KVR$$
 
 Hvor: 
 
-* CO2 indkøbDR: bidraget fra indkøbet af daggamle levekyllinger til rugeæg 
-* A slagtekyllinger: antal indkøbte daggamle levekyllinger til rugeæg (indtastes af bruger i stk.)
-* KVR: klimaværdi for daggamle levekyllinger til rugemæg på 0,5 kg CO2e/stk 
+* CO2 indkøbDR: bidraget fra indkøbet af daggamle levekyllinger til rugeægsproduktion 
+* A daggamle levekyllinger til rugeægsproduktion: antal indkøbte daggamle levekyllinger til rugeægsproduktion (indtastes af bruger i stk.)
+* KVR: klimaværdi for daggamle levekyllinger til rugeægsproduktion på 0,5 kg CO2e/stk 
 
 
 **Høns**
