@@ -1,6 +1,6 @@
 # **El**
 
-## **Bedriftsaftryk**
+## **Bedriftsaftryk (mark, fjerkræ)**
 
 **El fra vedvarende energikilder**
 _____________________________
@@ -23,7 +23,7 @@ Hvor:
 * F: Elforbrug = indtastes af bruger [kWh]
 * OMF: omregningsfaktor for el fra fossile og vedvarende energikilder = 0,151 [kg CO2/kWh]
 
-## **Produktaftryk**
+## **Produktaftryk (mark)**
 ___________________________________________
 **Vanding**
 
@@ -50,3 +50,5 @@ Hvor:
 * F<sub>t</sub>: Elforbrug total til tørring mv. i kWh (indtastet af bruger). 
 * ha<sub>m</sub>: Sum af hektar, der har afgrøder, der høstet til modenhed
 * ha<sub>a</sub>: Antal ha pr. mark 
+
+## **Produktaftryk (Fjerkræ)**
