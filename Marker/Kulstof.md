@@ -35,7 +35,7 @@ Puljeændring (HUM+ROM) hentet i Mark Online for kornmarken: X kg CO2 (https://s
 $$PMHN = P_{MO} + P_{halm}$$ 
 
 hvor 
-PMMN = puljeændringen mark med halmnedmuldning er i CO2 
+PMHN = puljeændringen mark med halmnedmuldning er i CO2 
 
 P MO = Puljeændring (HUM+ROM)fra MO i kg CO2
 
@@ -49,9 +49,9 @@ P halm = Puljeændring som følge af halmnedmuldning er i kg ts
 
 K = Kerneudbytte. Fås fra MO på hoveafgrøden, (kg eller FEN)
 
-OKH = omregningsfaktor kerne til halm (fås fra regneark, fane Data, kolonne R)
+OKH = omregningsfaktor kerne til halm (fås fra regneark, fane Data, kolonne R https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4)
 
-ts = tørstofprocent. Findes i regneark (fane data, kolonne J)
+ts = tørstofprocent. Findes i regneark (fane data, kolonne J https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4)
 
 PU : Puljeændring, kg CO2/kg halm-ts. Findes i https://segesinnovation.atlassian.net/browse/GT-834
 ___________________________
@@ -63,7 +63,7 @@ Puljeændring (HUM+ROM) hentet i Mark Online for kornmarken: X kg CO2 (https://s
 $$PMHN = P_{MO} + P_{halm}$$ 
 
 hvor 
-PMMN = puljeændringen mark med halmnedmuldning er i CO2 
+PMHN = puljeændringen mark med halmnedmuldning er i CO2 
 
 P MO = Puljeændring (HUM+ROM)fra MO i kg CO2
 
@@ -77,9 +77,38 @@ P halm = Puljeændring som følge af halmnedmuldning er i kg ts
 
 K = Kerneudbytte. Fås fra MO på hoveafgrøden, (kg eller FEN)
 
-OKH = omregningsfaktor kerne til halm (fås fra regneark, fane Data, kolonne R)
+OKH = omregningsfaktor kerne til halm (fås fra regneark, fane Data, kolonne R https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4)
 
-ts = tørstofprocent. Findes i regneark (fane data, kolonne J)
+ts = tørstofprocent. Findes i regneark (fane data, kolonne J https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4)
 
 PU : Puljeændring, kg CO2/kg halm-ts. Findes i https://segesinnovation.atlassian.net/browse/GT-834
+
+______________________________
+
+## **Ændring af efterafgrøder eller mellemafgrøder i scenarie - Kulstof i mineraljord** 
+
+**Hvis Kornmark uden efterafgrøde ændres til med efterafgrøde i scenarie**
+
+Puljeændring (HUM+ROM) hentet i Mark Online for kornmarken: X kg CO2 (https://segesinnovation.atlassian.net/browse/GT-996)
+
+$$PME = P_{MO} + P_{efterafgrøde}$$ 
+
+hvor 
+PME = puljeændringen mark med efterafgrøde i CO2 
+
+P MO = Puljeændring (HUM+ROM)fra MO i kg CO2
+
+P efterafgrøde = Puljeændring som følge af efterafgrøde, kg ts 
+
+$$P_{efterafgrøde} = BIO \cdot PU \cdot -1$$
+
+Hvor 
+
+P efterafgrøde = Puljeændring som følge af halmnedmuldning er i kg ts
+
+BIO = total biomasse Kerneudbytte. Fås fra regneark, fane Beregninger, kolonne L https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4
+
+PU : Puljeændring, kg CO2/kg efterafgrøde ts. Findes i https://segesinnovation.atlassian.net/browse/GT-896
+
+
 
