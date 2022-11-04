@@ -1,97 +1,56 @@
  
 # **Kulstof i mineraljord**
 ## **Bedriftsaftryk**
-_________________________
 
-$$CO_{2_{kulstof mineraljord}} = \Delta_{jord} \cdot \frac{44}{12}$$
+Kulstofændringen, Δ<sub>jord</sub> [kg CO<sub>2</sub>e], i mineraljord beregnes pr mark og summeres herefter for alle marker på bedriften.
 
-
- **Beregning af ændring af jordpulje, Δ<sub>jordpulje</sub>**
-
- $$\Delta_{jord} = C_{Ultimo} - C_{Primo}$$
+ $$\Delta_{jord} = C_{HUM} + C_{ROM} \cdot \frac{44}{12} $$
 
 Hvor:
 
-* Δ<sub>jord</sub>: Kulstof i mineraljord [kg C pr. ha i 0-100 cm]
-* C<sub>Primo</sub> = HUM<sub>Primo</sub> + ROM<sub>Primo</sub>
-* C<sub>Ultimo</sub> = HUM<sub>Ultimo</sub> + ROM<sub>Ultimo</sub>
+* C<sub>HUM</sub>: Ændringen i mængden af kulstof i HUM puljen fra april til april = kommer fra MO
+* C<sub>ROM</sub>: Ændringen i mængden af kulstof i ROM puljen fra april til april = kommer fra MO
 
-HUM<sub>Primo</sub>, ROM<sub>Primo</sub>, HUM<sub>Ultimo</sub> og ROM<sub>Ultimo</sub> kommer alle fra MO 
-_______________________
-
-
+___
 ## **Produktaftryk**
 
-Kulstof i mineraljord indgår **ikke** i produktaftryk
+Kulstof i mineraljord indgår *ikke* i produktaftryk på nuværende tidspunkt
 
-___________________________
+___
+## **Scenarier**
 
-## **Ændring af halmnedmuldning i scenarie - Kulstof i mineraljord** 
+Der er to ændringer i scenarier, som har indflydelse på mængden af kulstof i mineraljord
+1. **Halmnedmulding/bjærgning** (halmnedmulding tilfører ekstra kulstof til marken hvorimod bjærgning fjerner kulstof fra marken)
+1. **Efterafgrøder/mellemafgrøder** (tilfører ekstra kulstof til marken)
 
-**Hvis Kornmark ændres fra bjærgning af halm til halmnedmulding i scenarie**
+### **1. Halmnedmulding/bjærgning** 
 
-Puljeændring (HUM+ROM) hentet i Mark Online for kornmarken: X kg CO2 (https://segesinnovation.atlassian.net/browse/GT-996)
+Hvis en mark ændres fra "bjærgning af halm" til "halmnedmulding" i scenarie, skal Δ<sub>halm</sub> *trækkes fra* Δ<sub>jord</sub>, fordi optaget af kulstof øges og fordampningen derved sænkes
 
-$$PMHN = P_{MO} + P_{halm}$$ 
+Omvendt, hvis en mark ændres fra "halmnedmulding" til "bjærgning af halm", skal Δ<sub>halm</sub> *lægges til* Δ<sub>jord</sub>, fordi optaget af kulstof sænkes og fordampningen derved øges
 
-hvor 
-PMHN = puljeændringen mark med halmnedmuldning er i CO2 
 
-P MO = Puljeændring (HUM+ROM)fra MO i kg CO2
+$$\Delta_{jord_{justeret}} = \Delta_{jord} \pm \Delta_{halm}$$ 
 
-P halm = Puljeændring som følge af halmnedmuldning, kg ts 
 
-$$P_{halm} = (K \cdot OKH) \cdot ts \cdot (PU \cdot -1)$$
-
-Hvor 
-
-P halm = Puljeændring som følge af halmnedmuldning er i kg ts
-
-K = Kerneudbytte. Fås fra MO på hoveafgrøden, (kg eller FEN)
-
-OKH = omregningsfaktor kerne til halm (fås fra regneark, fane Data, kolonne R https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4)
-
-ts = tørstofprocent. Findes i regneark (fane data, kolonne J https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4)
-
-PU : Puljeændring, kg CO2/kg halm-ts. Findes i https://segesinnovation.atlassian.net/browse/GT-834
-___________________________
-
-**Hvis Kornmark ændres fra halmnedmuldning til bjærgning af halm i scenarie**
-
-Puljeændring (HUM+ROM) hentet i Mark Online for kornmarken: X kg CO2 (https://segesinnovation.atlassian.net/browse/GT-996)
-
-$$PMHN = P_{MO} + P_{halm}$$ 
-
-hvor 
-PMHN = puljeændringen mark med halmnedmuldning er i CO2 
-
-P MO = Puljeændring (HUM+ROM)fra MO i kg CO2
-
-P halm = Puljeændring som følge af halmnedmuldning, kg ts 
-
-$$P_{halm} = (K \cdot OKH) \cdot ts \cdot PU$$
+$$\Delta_{halm} = (K \cdot OKH) \cdot T \cdot PU $$
 
 Hvor 
 
-P halm = Puljeændring som følge af halmnedmuldning er i kg ts
 
-K = Kerneudbytte. Fås fra MO på hoveafgrøden, (kg eller FEN)
+* K = Kerneudbytte. Fås fra MO på hoveafgrøden, (kg eller FEN)
+* OKH = omregningsfaktor kerne til halm fås fra [regneark](https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4) (fane data, kolonne R)
+* T: Tørstoffraktion af høstet produkt = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Data%27!J1&action=embedview)
+* PU : Puljeændring, kg CO2/kg halm-ts. Findes i https://segesinnovation.atlassian.net/browse/GT-834
 
-OKH = omregningsfaktor kerne til halm (fås fra regneark, fane Data, kolonne R https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4)
 
-ts = tørstofprocent. Findes i regneark (fane data, kolonne J https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4)
 
-PU : Puljeændring, kg CO2/kg halm-ts. Findes i https://segesinnovation.atlassian.net/browse/GT-834
+### **2. Efterafgrøder/mellemafgrøder** 
 
-______________________________
+Hvis en der tilføjes en efter- eller mellemafgrøde til en mark i scenarie, skal Δ<sub>efterafgrøde</sub> *trækkes fra* Δ<sub>jord</sub>, fordi optaget af kulstof øges og fordampningen derved sænkes
 
-## **Ændring af efterafgrøder eller mellemafgrøder i scenarie - Kulstof i mineraljord** 
 
-**Hvis Kornmark uden efterafgrøde ændres til med efterafgrøde i scenarie**
-
-Puljeændring (HUM+ROM) hentet i Mark Online for kornmarken: X kg CO2 (https://segesinnovation.atlassian.net/browse/GT-996)
-
-$$PME = P_{MO} + P_{efterafgrøde}$$ 
+$$\Delta_{jord_{justeret}} = P_{MO} - P_{efterafgrøde}$$ 
 
 hvor 
 PME = puljeændringen mark med efterafgrøde i CO2 
@@ -100,15 +59,13 @@ P MO = Puljeændring (HUM+ROM)fra MO i kg CO2
 
 P efterafgrøde = Puljeændring som følge af efterafgrøde, kg ts 
 
-$$P_{efterafgrøde} = BIO \cdot PU \cdot -1$$
+$$P_{efterafgrøde} = B \cdot PU$$
 
 Hvor 
 
 P efterafgrøde = Puljeændring som følge af halmnedmuldning er i kg ts
 
-BIO = total biomasse Kerneudbytte. Fås fra regneark, fane Beregninger, kolonne L https://seges.sharepoint.com/:x:/s/GreenAction/Efh8eaic0HdFuXLk2cea-f8BUvxqW-wiCgPAb7-HCUh18w?e=S5n3Y4
+B: Total afgrøderester (biomasse), over + under jord = [Tabelværdi](https://seges.sharepoint.com/:x:/r/sites/GreenAction/_layouts/15/Doc.aspx?sourcedoc=%7BA8797CF8-D09C-4577-B972-E4D9C79AF9FF%7D&file=Afgr%C3%B8der_data_g%C3%B8dnings%C3%A5r%202020-2021_FOREL%C3%98BIG.xlsx&activeCell=%27Beregninger%27!L1&action=embedview)
 
 PU : Puljeændring, kg CO2/kg efterafgrøde ts. Findes i https://segesinnovation.atlassian.net/browse/GT-896
-
-
 
