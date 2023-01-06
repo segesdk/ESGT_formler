@@ -1,6 +1,6 @@
 **CO2e for slagtekylling foder**
 
-$$Total CO_2{slagtekyllingefoder} = CO_2{Fuldfoder} + CO_2{Tilskudsfoder} + CO_2{Indkøbt hel hvede} + CO_2{Hjemmeavlet hel hvede}$$
+$$Total CO_2{slagtekyllingefoder} = CO_2{Fuldfoder} + CO_2{Tilskudsfoder} + CO_2{Indkøbt hel hvede} - CO_2{Hjemmeavlet hel hvede}$$
 
 hvor 
 
