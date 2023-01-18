@@ -1,6 +1,6 @@
 **CO2e for opdrætsfoder**
 
-$$Total CO_2{opdrætsfoder} = CO_2{Fuldfoder} + CO_2{Tilskudsfoder} + CO_2{Indkøbt råvarer} + CO_2{Hjemmeavlet råvarer}$$
+$$Total CO_2{opdrætsfoder} = CO_2{Fuldfoder} + CO_2{Tilskudsfoder} + CO_2{Indkøbt råvarer} - CO_2{Hjemmeavlet råvarer}$$
 
 hvor 
 

@@ -28,10 +28,10 @@ Beregningerne af de enkelte emissionskilder findes i:
 3. [Organogene jorde](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Organogene_jorde.ipynb)
 4. [Afgrøderester](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Afgr%C3%B8derester.ipynb)
 5. [Nitratudvaskning](https://github.com/segesdk/ESGT_formler/blob/main/Marker/Nitratudvaskning.ipynb)
-6. [Handelsgødning import](https://github.com/segesdk/ESGT_formler/blob/main/import/handelsg%C3%B8dning.md)
+6. [Handelsgødning import](https://github.com/segesdk/ESGT_formler/blob/main/import/Importeret_g%C3%B8dning.ipynb)
 7. Afgræsning (mangler afklaring/beregning)
-8. [Dieselforbrug og maskinarbejde](https://github.com/segesdk/ESGT_formler/blob/main/import/Diesel.md)
-9. [El til tørring og vanding](https://github.com/segesdk/ESGT_formler/blob/main/import/el.md)
+8. [Dieselforbrug og maskinarbejde](https://github.com/segesdk/ESGT_formler/blob/main/import/Diesel_og_maskinarbejde.ipynb)
+9. [El til tørring og vanding](https://github.com/segesdk/ESGT_formler/blob/main/import/El.ipynb)
 
 ### **Eksempelberegning**
 

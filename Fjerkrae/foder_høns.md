@@ -1,6 +1,6 @@
 **CO2e for æglæggerfoder**
 
-$$Total CO_2{æglæggerfoder} = CO_2{Fuldfoder} + CO_2{Tilskudsfoder} + CO_2{skaller} + CO_2{Indkøbt råvarer} + CO_2{Hjemmeavlet råvarer}$$
+$$Total CO_2{æglæggerfoder} = CO_2{Fuldfoder} + CO_2{Tilskudsfoder} + CO_2{skaller} + CO_2{Indkøbt råvarer} - CO_2{Hjemmeavlet råvarer}$$
 
 hvor 
 

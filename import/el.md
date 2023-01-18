@@ -22,7 +22,6 @@ Hvor:
 
 * F: Elforbrug = indtastes af bruger [kWh]
 * OMF: omregningsfaktor for el fra fossile og vedvarende energikilder = 0,136 [kg CO2/kWh] 
-https://seges.sharepoint.com/:x:/s/GreenAction/EVQQ6Qbgx0VAor-_FAIU2QQBsfQB4lRJfW1TxuOVm5ZJCg?e=Xqmu2x kolonne AA
 
 ## **Produktaftryk (mark)**
 ___________________________________________
