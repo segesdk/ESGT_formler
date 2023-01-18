@@ -20,7 +20,7 @@ $$ El_f = F \cdot OMF$$
 
 Hvor:
 
-* F: Elforbrug = indtastes af bruger [kWh]
+* F: Elforbrug = indtastes af bruger [kWh] 
 * OMF: omregningsfaktor for el fra fossile og vedvarende energikilder = 0,136 [kg CO2/kWh] 
 
 ## **Produktaftryk (mark)**
