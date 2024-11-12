@@ -2,7 +2,7 @@ I denne mappe findes dokumentation for de formler som benyttes i ESGreenTool ([l
 
 Det anbefales det at tage udgangpunk i filerne [Produkt- og bedriftsregnskab for æg](https://github.com/segesdk/ESGT_formler/blob/main/Fjerkrae/Produkt_og_bedriftsregnskab_%C3%A6g.ipynb) og [Produkt- og bedriftsregnskab for slagtekyllinger](https://github.com/segesdk/ESGT_formler/blob/main/Fjerkrae/Produkt_og_bedriftsregnskab_%C3%A6g.ipynb) for at få overblik over beregningsmetodikken.
 
-Mange delberegninger er ens for høner og slagtekyllinger, og er for nemhedens skyld derfor samlet i samme fil under forskellige delafsnit. Dette gælder f.eks. bereningerne for Stald, Lager, Strøelse etc. 
+Mange delberegninger er ens for høner og slagtekyllinger, og er for nemhedens skyld derfor samlet i samme filer under forskellige delafsnit. Dette gælder f.eks. bereningerne for Stald, Lager, Strøelse etc. 
 
 
 
