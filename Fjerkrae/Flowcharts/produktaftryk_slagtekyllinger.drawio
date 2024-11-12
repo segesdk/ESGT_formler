@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WVeebAYcgP_CI5BwH7rX-1" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;CHR 99999&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180.5" y="-2280" width="1179.5" height="60" as="geometry" />
+          <mxGeometry x="180.5" y="-2280" width="1129.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;slagtekylling stald 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="-2190" width="170" height="33" as="geometry" />
@@ -17,19 +17,17 @@
           <mxGeometry x="180" y="-2190" width="170" height="33" as="geometry" />
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;slagtekyllingestald 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-2190" width="1180" height="33" as="geometry" />
+          <mxGeometry x="180" y="-2190" width="1130" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-1950" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-7" target="WVeebAYcgP_CI5BwH7rX-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;el&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="-1894" width="170" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-9">
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-9" target="WVeebAYcgP_CI5BwH7rX-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-1950" as="targetPoint" />
+            <mxPoint x="460" y="-1970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;energi til varme&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
@@ -41,50 +39,38 @@
         <mxCell id="WVeebAYcgP_CI5BwH7rX-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;lager&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2014px%3B%26quot%3B%26gt%3Bslagtekylling%20stald%201%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D33%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2270%22%20y%3D%22-1730%22%20width%3D%22170%22%20height%3D%2233%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;align=center;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="-2047" width="170" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-1950" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-13" target="WVeebAYcgP_CI5BwH7rX-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;fordøjelse&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="-2014" width="170" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-1940" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-15" target="WVeebAYcgP_CI5BwH7rX-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;foder m/u dLUC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="-1981" width="170" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-1950" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-17" target="WVeebAYcgP_CI5BwH7rX-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;indkøbte/indsatte rugeæg/daggamle slagtekyllinger&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="-1948" width="170" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-19">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-1950" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-19" target="WVeebAYcgP_CI5BwH7rX-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;stald&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="-2080" width="170" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-1950" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-21" target="WVeebAYcgP_CI5BwH7rX-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;lager&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2014px%3B%26quot%3B%26gt%3Bslagtekylling%20stald%201%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D33%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2270%22%20y%3D%22-1730%22%20width%3D%22170%22%20height%3D%2233%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="-2047" width="170" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="-1950" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-25" target="WVeebAYcgP_CI5BwH7rX-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;strøelse&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="180.5" y="-1828" width="170" height="33" as="geometry" />
@@ -96,12 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;slagtekyllingehold 1A&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#0050ef;strokeColor=#001DBC;align=center;verticalAlign=bottom;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-2130" width="560" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="WVeebAYcgP_CI5BwH7rX-51">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1170" y="-1950" as="sourcePoint" />
-          </mxGeometry>
+          <mxGeometry x="180" y="-2130" width="540" height="33" as="geometry" />
         </mxCell>
         <mxCell id="WVeebAYcgP_CI5BwH7rX-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -109,14 +90,76 @@
             <mxPoint x="1095" y="-1930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-49" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;slagtekyllingehold 1B&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;align=center;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-2130" width="560" height="33" as="geometry" />
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-50" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Produktaftryk m/u dLUC pr. kg levende slagtekyllinger for slagtekyllingehold 1A&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="-2039.5" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-50" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Produktaftryk m/u dLUC pr. kg levende slagtekyllinger for hønsehold 1A&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-2025" width="150" height="150" as="geometry" />
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-68" target="WVeebAYcgP_CI5BwH7rX-87">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WVeebAYcgP_CI5BwH7rX-51" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Produktaftryk m/u dLUC pr. kg levende slagtekylling for hønsehold 1B&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="-2025" width="150" height="150" as="geometry" />
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-68" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;el&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="770.5" y="-1894" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-70" target="WVeebAYcgP_CI5BwH7rX-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="-1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;energi til varme&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="770.5" y="-1861" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-71" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;stald&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;align=center;" vertex="1" parent="1">
+          <mxGeometry x="770.5" y="-2080" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-72" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;lager&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2014px%3B%26quot%3B%26gt%3Bslagtekylling%20stald%201%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D33%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2270%22%20y%3D%22-1730%22%20width%3D%22170%22%20height%3D%2233%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;align=center;" vertex="1" parent="1">
+          <mxGeometry x="770.5" y="-2047" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-74" target="WVeebAYcgP_CI5BwH7rX-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-74" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;fordøjelse&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="770.5" y="-2014" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-76" target="WVeebAYcgP_CI5BwH7rX-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;foder m/u dLUC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="770.5" y="-1981" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-78" target="WVeebAYcgP_CI5BwH7rX-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-78" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;indkøbte/indsatte rugeæg/daggamle slagtekyllinger&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="770.5" y="-1948" width="170" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-80" target="WVeebAYcgP_CI5BwH7rX-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-80" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;stald&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="770.5" y="-2080" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-82" target="WVeebAYcgP_CI5BwH7rX-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-82" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;lager&lt;/font&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bfont%20style%3D%26quot%3Bfont-size%3A%2014px%3B%26quot%3B%26gt%3Bslagtekylling%20stald%201%26lt%3B%2Ffont%26gt%3B%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D33%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2270%22%20y%3D%22-1730%22%20width%3D%22170%22%20height%3D%2233%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="770.5" y="-2047" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WVeebAYcgP_CI5BwH7rX-84" target="WVeebAYcgP_CI5BwH7rX-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-84" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;strøelse&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="770.5" y="-1828" width="170" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1065" y="-1930" as="sourcePoint" />
+            <mxPoint x="1065" y="-1930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-86" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;slagtekyllingehold 1B&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#0050ef;strokeColor=#001DBC;align=center;verticalAlign=bottom;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-2130" width="540" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="WVeebAYcgP_CI5BwH7rX-87" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Produktaftryk m/u dLUC pr. kg levende slagtekyllinger for slagtekyllingehold 1B&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-2039.5" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
