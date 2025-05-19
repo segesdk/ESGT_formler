@@ -1,17 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.5">
   <diagram name="Page-1" id="gtF86d2Yf04ySMRj77Ap">
-    <mxGraphModel dx="2002" dy="3252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2938" dy="3498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-1" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;FarmAhead&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="90.5" y="-2110" width="349.5" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Zn8mYaEwA6EY-k9Sd_vz-3" target="Zn8mYaEwA6EY-k9Sd_vz-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;el&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="90" y="-1838" width="350" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;stald&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;align=center;" parent="1" vertex="1">
           <mxGeometry x="90.5" y="-1970" width="170" height="33" as="geometry" />
@@ -59,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;samlet udledning fra marken (inkl. hjemmeavlet foder og salgsafgrøder)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="100.5" y="-1410" width="349.5" height="110" as="geometry" />
+          <mxGeometry x="100.5" y="-1470" width="349.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Zn8mYaEwA6EY-k9Sd_vz-20" target="Zn8mYaEwA6EY-k9Sd_vz-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -73,22 +67,11 @@
         <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-22" value="&lt;p style=&quot;line-height: 30%;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;gange med mængden af mælk&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#cce5ff;strokeColor=#36393d;arcSize=9;align=center;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="790" y="-1911.25" width="160" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Zn8mYaEwA6EY-k9Sd_vz-24" target="Zn8mYaEwA6EY-k9Sd_vz-26" edge="1">
+        <mxCell id="qw5N6StHO1SfH2oUPiOa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qw5N6StHO1SfH2oUPiOa-1" target="Zn8mYaEwA6EY-k9Sd_vz-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;samlet elforbrug til mark&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="100.5" y="-1460" width="349.5" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Zn8mYaEwA6EY-k9Sd_vz-26" target="Zn8mYaEwA6EY-k9Sd_vz-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1010" y="-1730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-26" value="&lt;font&gt;samlet elforbrug til mark trækkes fra, da det antages at være opgivet i el fra FarmAhead&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="730" y="-1530" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Zn8mYaEwA6EY-k9Sd_vz-27" value="hængeparti: slagtekalvens bidrag??" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="-2140" width="160" height="90" as="geometry" />
+        <mxCell id="qw5N6StHO1SfH2oUPiOa-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;standard værdier for el og diesel&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=33;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-1350" width="349.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
